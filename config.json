@@ -1,0 +1,85 @@
+{
+  "embeds": {
+    "body": {
+      "color": "#ff0000",
+      "image": "Image.png",
+      "thumbnail": "thumbnail.png"
+    },
+    "footer": {
+      "icon": "icon.png",
+      "text": "Copyright by Джейсон | Technical Support ➔ Джейсон#1312"
+    },
+    "author": {
+      "name": "GTA Roleplay",
+      "url": "https://github.com/ShinoXLP",
+      "icon": "https://cdn.discordapp.com/attachments/869691573816938506/881651124283781211/Screenshot_4.png"
+    }
+  },
+
+  "activity": {
+    "type": "WATCHING",
+    "name": "GTA Roleplay | Roleplay",
+    "streamURL": "https://www.twitch.tv/yourname"
+  },
+
+  "ticketCategories": {
+    "generally": "Token",
+    "exile": "Token",
+    "fraction": "Token",
+    "donate": "Token",
+    "team": "Token",
+    "community": "Token",
+    "refund": "token"
+  },
+
+  "ticketNames": {
+    "generally": "general-username",
+    "exile": "exile username",
+    "fraction": "faction-username",
+    "donate": "donate username",
+    "team": "team-username",
+    "community": "community username",
+    "refund": "refund username"
+  },
+
+  "ticketReasons": {
+    "generally": "\uD83D\uDCE9",
+    "exile": "\uD83D\uDD28",
+    "fraction": "\uD83D\uDD75",
+    "donate": "\uD83D\uDC8E",
+    "team": "\uD83E\uDDD1\u200D\uD83E\uDD1D\u200D\uD83E\uDDD1",
+    "community": "⚡",
+    "refund": "\uD83E\uDD1D"
+  },
+
+  "ticketRoles": {
+    "generally": "Tokenchanel",
+    "exile": "Tokenchanel",
+    "fraction": "Tokenchanel",
+    "donate": "Tokenchanel",
+    "team": "Tokenchanel",
+    "community": "Tokenchanel",
+    "refund": "Tokenchanel"
+  },
+
+  "ticketChannel": "Tokenchanel",
+  "ticketLogs": "",
+
+  "shinox": {
+    "logs": {
+      "start": "Token/_Ao-Hkeyt8Zi6Whp1QYFKCoALRByjf_ivQRkLmkhWlG6nkzKBJTc5cbGHuiAce_th6cW",
+      "commands": "token/2_iR6E9IWphajzjjumkQUb8ErFHR9tYmvpMIhWuRQmVfZz1WF6slAo8MUVkQssVhW4c9",
+
+      "ticketcreated": "token/m6YF-vWSdwb0PfrOsPvLMttb3XuX8ePjEclPfaxyhrRuOIT9hZvUOpqghl-3WlyZfKXA",
+      "ticketrenaming": "token/YJdKb3Y_5qYNPTzX0hHMmwX6yknEF4re-eGDLWqjvT-eoWpyZLWW3ZLqAwfWiX5O1B5c",
+      "ticketclosed": "token/8pWWMYMApPEhFyFkobS9f89fMKyHVWMKZdykboePum1bk1M_rVKYZebpE8-1cKbLLocb",
+      "ticketadd": "token/CF_xS8E-8HhlExqF3lvWNFWd9QWooy7OHB52OO1C1XDd91BAKSmoIkRrMZ85o0_awGbN",
+
+      "ban": "token/6OG5rp1ygvkcPfWtogPCGsKly0Wq67dN9p4Dgm6RuLh6K4ywtC9hDzMAxahzPxvccWCM",
+      "kick": "token/IwnN7wySsMDlQssY1VXVrqF8KjZv3hmIJLTMD6vYt44miGdWL86E6zLRNbYvwqc3S-oQ"
+    }
+  },
+
+  "prefix": "!",
+  "token": ""
+}
